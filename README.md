@@ -9,9 +9,9 @@
 
 
 ### ⭐ I'm also fluent in –
-* English ![uk-flag](img/uk-flag.png)
-* Swedish <!-- ![sweden-flag](add img/sweden-flag.png) and see if image resized correctly -->
-* Vietnamese ![vietnam-flag](img/vietnam-flag.png)
+* ![uk-flag](img/uk-flag.png) English
+* ![sweden-flag](img/sweden-flag.png) Swedish
+* ![vietnam-flag](img/vietnam-flag.png) Vietnamese
 
 <p align="center">  
 🤝 <strong>If you'd like to collaborate, please reach out to me at</strong> <a href="mailto:vy.petersson@medieinstitutet.se">

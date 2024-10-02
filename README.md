@@ -2,8 +2,9 @@
 ✌️I’m Vie, currently a Front End Developer student at [Medieinstitutet](https://github.com/medieinstitutet).
 
 ### 🌱 I’m currently learning –
-![HTML badge](https://img.shields.io/badge/html-%2304aa6d?style=for-the-badge)
-![CSS badge](https://img.shields.io/badge/css-ffc0cb?style=for-the-badge)
+![html-badge](https://img.shields.io/badge/html-%2304aa6d?style=for-the-badge)
+![css-badge](https://img.shields.io/badge/css-ffc0cb?style=for-the-badge)
+![js-badge](https://img.shields.io/badge/javascript-orange?style=for-the-badge)
 
 *. . . will add more as the list goes on*
 

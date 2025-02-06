@@ -21,6 +21,6 @@
 * ![vietnam-flag](img/vietnam-flag.png) Vietnamese
 
 <p align="center">  
-  <img src="https://cdn3.emoji.gg/emojis/7044-heart-speech-bubble.png" width="25" height="25"><strong>If you'd like to collaborate, please reach out to me at</strong> <a href="mailto:vy.petersson@medieinstitutet.se">
+  <img src="https://cdn3.emoji.gg/emojis/7044-heart-speech-bubble.png" width="25" height="25"> <strong>If you'd like to collaborate, please reach out to me at</strong> <a href="mailto:vy.petersson@medieinstitutet.se">
   <img alt="email-badge" src="https://img.shields.io/badge/%F0%9F%93%AB_my_email-white"></a> <img src="https://cdn3.emoji.gg/emojis/3949-blob-handshake.gif" width="34" height="25">
 </p>

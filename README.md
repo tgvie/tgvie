@@ -15,6 +15,9 @@
 | ------------------ |
 | [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#) [![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#) [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#) |
 
+<br>
+<hr>
+
 ### [<img src="https://cdn3.emoji.gg/emojis/11379-starwiggle.gif" width="19" height="21">](https://emoji.gg/emoji/11379-starwiggle) I'm also fluent in –
 * ![uk-flag](img/uk-flag.png) English
 * ![sweden-flag](img/sweden-flag.png) Swedish

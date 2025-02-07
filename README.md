@@ -28,7 +28,7 @@
 </div>
 
 ### <img src="img/wiggle-star.gif" width="19" height="21"> I'm also fluent in –
- ![uk-flag](img/uk-flag.png) English &nbsp; ![sweden-flag](img/sweden-flag.png) Swedish &nbsp; ![vietnam-flag](img/vietnam-flag.png) Vietnamese
+ ![uk-flag](img/uk-flag.png) English &nbsp; &nbsp; ![sweden-flag](img/sweden-flag.png) Swedish &nbsp; &nbsp; ![vietnam-flag](img/vietnam-flag.png) Vietnamese
 
 </div>
 

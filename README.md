@@ -36,4 +36,4 @@
 
 <br>
 
-## <div align="center"><img src="img/heart-shake-bubble.png" width="25" height="25"> If you'd like to collaborate, please reach out to me at <a href="mailto:vy.petersson@medieinstitutet.se"><img alt="email-badge" src="https://img.shields.io/badge/%F0%9F%93%AB_my_email-white"></a> <img src="img/blob-shaking-hand.gif" width="34" height="25"></div>
+## <div align="center"><img src="img/heart-shake-bubble.png" width="30" height="30"> If you'd like to collaborate, please reach out to me at <a href="mailto:vy.petersson@medieinstitutet.se"><img alt="email-badge" src="https://img.shields.io/badge/%F0%9F%93%AB_my_email-white"></a> <img src="img/blob-shaking-hand.gif" width="41" height="32"></div>

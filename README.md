@@ -14,7 +14,7 @@
 | ------------------ |
 | [![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#) [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#) [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)|
 
-</div>
+
 
 <!-- | <img src="img/heart-bubble.gif" width="20" height="20"> | <img src="img/kitty-laptop.gif" width="20" height="20"> |
 | --- | -- |
@@ -30,10 +30,9 @@
 </div>
 
 ### <img src="img/wiggle-star.gif" width="19" height="21"> I'm also fluent in –
-* ![uk-flag](img/uk-flag.png) English
-* ![sweden-flag](img/sweden-flag.png) Swedish
-* ![vietnam-flag](img/vietnam-flag.png) Vietnamese
+ ![uk-flag](img/uk-flag.png) English &nbsp; ![sweden-flag](img/sweden-flag.png) Swedish &nbsp; ![vietnam-flag](img/vietnam-flag.png) Vietnamese
 
+</div>
 <br>
 
 ## <div align="center"><img src="img/heart-shake-bubble.png" width="30" height="30"> If you'd like to collaborate, please reach out to me at <a href="mailto:vy.petersson@medieinstitutet.se"><img alt="email-badge" src="https://img.shields.io/badge/%F0%9F%93%AB_my_email-white"></a> <img src="img/blob-shaking-hand.gif" width="41" height="32"></div>

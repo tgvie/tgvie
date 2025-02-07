@@ -23,8 +23,6 @@
 
 </div>
 
-<br>
-
 ### <div align="center"><img src="img/hr-line.gif"><img src="img/hr-line.gif"></div>
 
 <div align="center">

@@ -1,5 +1,5 @@
 <!-- # <img src="https://raw.githubusercontent.com/tgvie/tgvie/refs/heads/main/img/sunglasses-emoji.gif" width="40" height="40"> Hey there! -->
-# [<img src="https://cdn3.emoji.gg/emojis/6770-bongocat-wave.gif" width="44" height="44">](https://emoji.gg/emoji/6770-bongocat-wave) Hi there!
+# <img src="img/cat-wave.gif" width="50" height="50"> Hi there!
 
 [<img src="https://cdn3.emoji.gg/emojis/27073-hispeechbubble.gif" width="20" height="20">](https://emoji.gg/emoji/27073-hispeechbubble) I’m Vie, currently a Front End Developer student at [Medieinstitutet](https://github.com/medieinstitutet) with a creative background in graphic design and film editing. I've previously worked in various customer service roles, which have helped me develop strong communication and problem-solving skills, as well as understanding user needs. I’m all about tech and always excited to learn new things <img src="https://cdn3.emoji.gg/emojis/1130-junimojam.gif" width="25" height="25">
 
@@ -18,7 +18,7 @@
 <br>
 
 <div align="center">
-<img src="https://cdn3.emoji.gg/emojis/41073-sprout.gif" width="38" height="27"><img src="https://cdn3.emoji.gg/emojis/41073-sprout.gif" width="38" height="27"><img src="https://cdn3.emoji.gg/emojis/41073-sprout.gif" width="38" height="27"><img src="https://cdn3.emoji.gg/emojis/41073-sprout.gif" width="38" height="27"><img src="https://cdn3.emoji.gg/emojis/41073-sprout.gif" width="38" height="27"><img src="https://cdn3.emoji.gg/emojis/41073-sprout.gif" width="38" height="27"><img src="https://cdn3.emoji.gg/emojis/41073-sprout.gif" width="38" height="27"><img src="https://cdn3.emoji.gg/emojis/41073-sprout.gif" width="38" height="27"><img src="https://cdn3.emoji.gg/emojis/41073-sprout.gif" width="38" height="27"><img src="https://cdn3.emoji.gg/emojis/41073-sprout.gif" width="38" height="27"><img src="https://cdn3.emoji.gg/emojis/41073-sprout.gif" width="38" height="27"><img src="https://cdn3.emoji.gg/emojis/41073-sprout.gif" width="38" height="27"><img src="https://cdn3.emoji.gg/emojis/41073-sprout.gif" width="38" height="27"><img src="https://cdn3.emoji.gg/emojis/41073-sprout.gif" width="38" height="27"><img src="https://cdn3.emoji.gg/emojis/41073-sprout.gif" width="38" height="27">
+<img src="img/hr-line.gif"><img src="img/hr-line.gif">
 </div>
 
 ### [<img src="https://cdn3.emoji.gg/emojis/11379-starwiggle.gif" width="19" height="21">](https://emoji.gg/emoji/11379-starwiggle) I'm also fluent in –

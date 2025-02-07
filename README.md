@@ -1,6 +1,6 @@
 # <img src="img/cat-wave.gif" width="50" height="50"> Hi there!
 
-[<img src="img/hi-bubble.gif" width="20" height="20">](https://emoji.gg/emoji/27073-hispeechbubble) I’m Vie, currently a Front End Developer student at [Medieinstitutet](https://github.com/medieinstitutet) with a creative background in graphic design and film editing. I've previously worked in various customer service roles, which have helped me develop strong communication and problem-solving skills, as well as understanding user needs. I’m all about tech and always excited to learn new things! <img src="img/dancing-blob.gif" width="15" height="15">
+[<img src="img/hi-bubble.gif" width="20" height="20">](https://emoji.gg/emoji/27073-hispeechbubble) I’m Vie, currently a Front End Developer student at [Medieinstitutet](https://github.com/medieinstitutet) with a creative background in graphic design and video editing. I've previously worked in various customer service roles, which have helped me develop strong communication and problem-solving skills, as well as understanding user needs. I’m all about tech and always excited to learn new things! <img src="img/dancing-blob.gif" width="15" height="15">
 
 ## <img src="img/typing-cat.gif" width="35" height="35"> My Tech Stack
 

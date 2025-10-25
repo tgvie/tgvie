@@ -1,6 +1,6 @@
 # <a href="#"><img src="img/cat-wave.gif" width="50" height="50"></a> Hi there!
 
-<a href="#"><img src="img/hi-bubble.gif" width="20" height="20"></a> I’m Vie - a **Front End Developer** with a creative background in graphic design and video editing. I've previously worked in various customer service roles, which have also helped me develop strong communication and problem-solving skills, as well as understanding user needs. I’m all about tech and always excited to learn new things! <a href="#"><img src="img/dancing-blob.gif" width="15" height="15"></a>
+<a href="#"><img src="img/hi-bubble.gif" width="20" height="20"></a> I’m Vie — a **Front End Developer** with a creative background in graphic design and video editing. I've previously worked in various customer service roles, which have also helped me develop strong communication and problem-solving skills, as well as understanding user needs. I’m all about tech and always excited to learn new things! <a href="#"><img src="img/dancing-blob.gif" width="15" height="15"></a>
 
 ## <a href="#"><img src="img/typing-cat.gif" width="35" height="35"></a> My Tech Stack
 
